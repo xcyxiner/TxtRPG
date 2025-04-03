@@ -1,0 +1,31 @@
+# 编译产物
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.o
+*.class
+*.jar
+*.war
+
+# 日志文件
+*.log
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE 配置文件
+.idea/
+.vscode/
+*.code-workspace
+
+# 依赖目录
+node_modules/
+vendor/
+
+build/
+*.out
+*.dSYM/
